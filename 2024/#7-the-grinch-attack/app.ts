@@ -1,4 +1,4 @@
-// url: https://adventjs.dev/en/challenges/2024/6
+// url: https://adventjs.dev/en/challenges/2024/7
 
 // Oh my Lord, is there any word that could describe how much I miss "recursive solutions"? Certainly not...
 // P.S.: It got 3 stars btw. there must be a better solution, but I loved it so idc.
